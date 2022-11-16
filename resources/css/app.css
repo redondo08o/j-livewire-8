@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.titel_h1{
+    color: #2563eb;
+}
